@@ -30,10 +30,10 @@ const Footer = () => {
             </h4>
             <div className="space-y-2 font-sans text-xs text-[#FCF9F5]/70">
               <p className="hover:text-white transition-colors duration-300">
-                <a href="mailto:concierge@ragacandles.com">concierge@ragacandles.com</a>
+                <a href="mailto:ragacandles@gmail.com">ragacandles@gmail.com</a>
               </p>
               <p className="hover:text-white transition-colors duration-300">
-                <a href="tel:+919876543210">+91 (0) 98765 43210</a>
+                <a href="tel:+919876543210">+91 (0) 63053 13849</a>
               </p>
             </div>
           </div>
