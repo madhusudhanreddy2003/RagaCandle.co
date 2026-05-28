@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const Hero = () => {
   return (
-    <section id="home" className="relative min-h-screen flex items-center pt-24 sm:pt-28 lg:pt-20 bg-[#FCF9F5] overflow-hidden">
+    <section id="home" className="relative min-h-screen flex items-center pt-5 sm:pt-28 lg:pt-20 bg-[#FCF9F5] overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-12 w-full grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center py-12 lg:py-0">
         
         {/* Editorial Text Block */}
@@ -29,7 +29,7 @@ const Hero = () => {
         </motion.div>
 
         {/* Asymmetric Profile Graphic Image Block */}
-        <div className="order-1 lg:order-2 w-full max-w-[320px] sm:max-w-[400px] lg:max-w-none mx-auto px-4 sm:px-0">
+        <div className="order-1 lg:order-2 w-full max-w-[320px] sm:max-w-[400px] lg:max-w-none mx-auto px-2 sm:px-0">
           <div className="relative aspect-[4/5] bg-[#F3EFE9] rounded-t-full overflow-hidden flex items-end justify-center shadow-xs">
             <img 
               src="/images/Hero-Candle.png" 
